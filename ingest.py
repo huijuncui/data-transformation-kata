@@ -2,6 +2,7 @@
 
 from transform.process import *
 
+# Set up global variables
 input_path = 'data/in/'
 file_types = ['csv', 'xml']
 

@@ -10,11 +10,11 @@
     "conditions": [
         {
             "code": "C43.2",
-            "name": "condition"
+            "name": null
         },
         {
             "code": "C43.4",
-            "name": "condition"
+            "name": null
         }
     ],
     "source": "csv/1.csv"

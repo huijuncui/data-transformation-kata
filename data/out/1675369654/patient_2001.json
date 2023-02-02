@@ -2,6 +2,7 @@
     "mrn": "2001",
     "firstName": "matilda",
     "lastName": "mcdonald",
+    "middleName": null,
     "demographics": {
         "dateOfBirth": -625852800,
         "sex": "F"

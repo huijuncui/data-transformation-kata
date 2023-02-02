@@ -10,7 +10,7 @@
     "conditions": [
         {
             "code": "C15.3",
-            "name": "condition"
+            "name": null
         }
     ],
     "source": "csv/1.csv"

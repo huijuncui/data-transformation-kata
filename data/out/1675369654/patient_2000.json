@@ -2,6 +2,7 @@
     "mrn": "2000",
     "firstName": "daniel",
     "lastName": "cho",
+    "middleName": null,
     "demographics": {
         "dateOfBirth": 375091200,
         "sex": "M"
