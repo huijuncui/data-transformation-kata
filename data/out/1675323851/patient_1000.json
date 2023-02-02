@@ -1,0 +1,21 @@
+{
+    "mrn": 1000,
+    "firstName": "douglas",
+    "lastName": "timmothy",
+    "middleName": "f",
+    "demographics": {
+        "dateOfBirth": 102672000,
+        "sex": "M"
+    },
+    "conditions": [
+        {
+            "code": "C43.2",
+            "name": "condition"
+        },
+        {
+            "code": "C43.4",
+            "name": "condition"
+        }
+    ],
+    "source": "csv/1.csv"
+}

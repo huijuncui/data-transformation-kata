@@ -1,0 +1,20 @@
+{
+    "mrn": "2001",
+    "firstName": "matilda",
+    "lastName": "mcdonald",
+    "demographics": {
+        "dateOfBirth": -625852800,
+        "sex": "F"
+    },
+    "conditions": [
+        {
+            "code": "C50.911",
+            "name": "Malignant neoplasm of unspecified site, right female breast"
+        },
+        {
+            "code": "C50.811",
+            "name": "Malignant neoplasm of overlapping sites, right female breast"
+        }
+    ],
+    "source": "xml/2.xml"
+}

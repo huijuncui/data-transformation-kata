@@ -1,0 +1,14 @@
+<patient>
+    <medicalRecordNum>2000</medicalRecordNum>
+    <firstName>Daniel</firstName>
+    <lastName>Cho</lastName>
+
+    <demographics>
+        <dateOfBirth>1981-11-20 00:00:00.0</dateOfBirth>
+        <sex>Male</sex>
+    </demographics>
+
+    <diagnoses>
+        <diagnosis code="C34.90">Malignant neoplasm of unspecified part of unspecified bronchus or lung</diagnosis>
+    </diagnoses>
+</patient>

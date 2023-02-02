@@ -1,0 +1,15 @@
+<patient>
+    <medicalRecordNum>2001</medicalRecordNum>
+    <firstName>Matilda</firstName>
+    <lastName>McDonald</lastName>
+
+    <demographics>
+        <dateOfBirth>1950-3-3 00:00:00.0</dateOfBirth>
+        <sex>Female</sex>
+    </demographics>
+
+    <diagnoses>
+        <diagnosis code="C50.911">Malignant neoplasm of unspecified site, right female breast</diagnosis>
+        <diagnosis code="C50.811">Malignant neoplasm of overlapping sites, right female breast</diagnosis>
+    </diagnoses>
+</patient>

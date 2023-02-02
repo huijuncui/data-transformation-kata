@@ -1,0 +1,17 @@
+{
+    "mrn": 1001,
+    "firstName": "hubert",
+    "lastName": "jane",
+    "middleName": "p",
+    "demographics": {
+        "dateOfBirth": -319737600,
+        "sex": "F"
+    },
+    "conditions": [
+        {
+            "code": "C67.3",
+            "name": "condition"
+        }
+    ],
+    "source": "csv/1.csv"
+}

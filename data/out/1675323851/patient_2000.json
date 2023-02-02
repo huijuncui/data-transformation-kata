@@ -1,0 +1,16 @@
+{
+    "mrn": "2000",
+    "firstName": "daniel",
+    "lastName": "cho",
+    "demographics": {
+        "dateOfBirth": 375091200,
+        "sex": "M"
+    },
+    "conditions": [
+        {
+            "code": "C34.90",
+            "name": "Malignant neoplasm of unspecified part of unspecified bronchus or lung"
+        }
+    ],
+    "source": "xml/1.xml"
+}
